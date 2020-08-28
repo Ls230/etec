@@ -1,0 +1,6 @@
+Paciente mora no endereço
+Paciente faz consulta
+Paciente tem telefone
+Medico mora no endereço
+Medico realiza consulta
+Consulta solicita exame
